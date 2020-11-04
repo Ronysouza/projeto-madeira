@@ -1,0 +1,77 @@
+.img_video{
+	border: 3px solid #363636;
+	text-align: center;
+	transition: 0.5s;
+	cursor: pointer;
+	 
+}
+
+
+.img_video:hover{
+	transition: 0.5s;
+	transform: scale(1.05);
+}
+
+
+.img_video a{
+	color: #363636;
+}
+
+.video_iframe{
+	
+	margin: auto;
+	margin-bottom:50px;
+	 
+        width:560px;
+        height:315px;
+}
+
+
+.asside_videos{
+    display: none;
+}
+
+ 
+
+
+.div_port h1{
+	font-size: 22px;
+
+
+}
+.div_port ul{
+	list-style: none;
+}
+
+
+.div_port_le{
+	border:1px solid #ddd;
+	border-left: 3px solid #363636;
+	padding: 10px;
+	border-radius: 2px;
+	font-size: 14px
+
+}
+
+
+
+ /* Telefones em paisagem e abaixo */
+@media only screen and (max-width: 480px) { 
+    .video_iframe{
+          width:285px;
+        height:223px;
+    }
+ }
+
+/* Telefones em paisagem a tablet em retrato */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+   .video_iframe{
+         
+           width: 548px;
+    height: 315px;
+        
+    }
+}
+
+
+ 

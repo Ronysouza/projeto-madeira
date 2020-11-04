@@ -1,0 +1,109 @@
+@font-face {
+	font-family: 'Cloister';
+ 
+		 
+	src:url('http://habitaremadeiras.tk/assets/images/CloisterBlack-Light.woff2') format('woff');
+ 
+}
+
+
+
+
+body{
+background-image: url(http://habitaremadeiras.tk/assets/images/banner.jpg);
+background-attachment: fixed;
+}
+ 
+.menu-topo{
+	box-shadow: 2px 2px 33px 7px #FFf;
+background-image: url(http://habitaremadeiras.tk/assets/images/fundo.png);
+ 
+ 
+
+}
+
+.topo-info{
+
+	text-align: center;
+	 
+}
+
+.topo-info img{
+	margin: 50px;
+	box-shadow: 2px 2px 33px 7px #FFf
+}
+
+.topo-a {
+	padding: 50px;
+}
+
+.topo-a a{
+	margin: 10px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	list-style: none;
+	text-decoration: none;
+	color: #fff;
+	font-family: 'Cloister';
+    font-weight: 300;
+	font-size: 30px;  
+
+}
+
+ 
+.img-efeito{
+	display: none;
+}
+
+.color-rodape{
+
+	font-family: 'Cloister';
+	color: #fff;
+ }
+
+.div-rodape{
+	background-color: rgba(0,0,0,0.6);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 33px 7px #FFf
+}
+.div-rodape a{
+	padding: 10px;
+}
+
+.div-rodape img{
+	height: 100px;
+}
+
+
+.efeito-imagem-rodape {
+    background-image: url(http://habitaremadeiras.tk/assets/images/banco.png);
+    height: 197px;
+    background-repeat: no-repeat;
+}
+
+
+.fundo-5{
+
+	background-image: url(http://habitaremadeiras.tk/assets/images/a.png);
+ 
+	background-repeat: repeat-x;
+	height: 38px;
+	margin-top: 10px;
+	margin-bottom: 10px;;
+}
+
+
+.fundo-h4{
+	color: #fff;
+	font-family: 'Cloister';
+    font-weight: 300;
+	 
+}
+
+
+
+ footer{
+	 padding-bottom: 100px;
+ }

@@ -1,0 +1,34 @@
+.sistemas h2{
+	font-size: 20px;
+	font-family: arial;
+
+
+}
+
+.sistemas p{
+	text-align: justify;
+	font-size: 13px;
+	color: #000;
+	font-family: arial;
+
+}
+
+.sistemas ul{
+	list-style: none;
+}
+
+.sistemas h1{
+   font-size: 25px;
+   color: #1e1e1e;
+   text-align: center;
+   font-family: arial;
+
+}
+
+.sistemas iframe{
+	max-width: 787px;
+	width: 100%;
+	margin: auto;
+}
+
+ 

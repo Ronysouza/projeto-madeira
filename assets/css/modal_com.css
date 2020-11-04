@@ -1,0 +1,222 @@
+.modal_p{
+	background-color: rgba(0, 0, 0,0.6);
+	 display: none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+
+
+}
+
+.modal_int{
+	max-width: 700px;
+	width: 100%;
+	margin: auto;
+	margin-top: 50px;
+	background-color: #fff;
+	padding: 50px;
+	
+
+}
+
+.modal_int h2{
+	color: #993333
+}
+
+
+
+
+.modal_t{
+	background-color: rgba(0, 0, 0,0.6);
+	 display: none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+
+
+}
+
+
+
+.modal_carrossel{
+
+background-color: rgba(0, 0, 0,0.6);
+	 display:none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+
+
+}
+
+.modal_carrossel_int{
+max-width: 700px;
+	width: 100%;
+	margin: auto;
+	margin-top: 50px;
+	background-color: #fff;
+	padding: 50px;
+
+
+
+
+}
+
+.modal_carrossel_int h1{
+	color: #000;
+}
+
+
+.modal_carrossel_info{
+
+	background-color: rgba(0, 0, 0,0.6);
+	 display:none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+
+	bottom: 0;
+
+
+}
+
+
+.modal_carrossel_vidafarma{
+background-color: rgba(0, 0, 0,0.6);
+	 display:none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+
+
+
+}
+
+
+.modal_carrossel_email{
+
+	background-color: rgba(0, 0, 0,0.6);
+	 display:none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	overflow: auto;
+
+}
+
+
+.modal_android_info{
+	overflow: auto;
+		background-color: rgba(0, 0, 0,0.6);
+	 display:none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	
+
+
+
+}
+
+
+.modal_imagem_int{
+
+overflow: auto;
+		background-color: rgba(0, 0, 0,0.6);
+	 display:none;
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+
+
+}
+ #abrir_imagen_modal{
+ 	cursor: pointer;
+ }
+
+ #modal_imagem{
+
+ 		background-color: rgba(0, 0, 0,0.6);
+
+
+
+ }
+
+
+
+
+
+ .modal_imagem_videos{
+
+
+ 
+		background-color: rgba(0, 0, 0,0.6);
+	 display:none;
+	   
+	 
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+
+ }
+
+ .modal_carrossel_int_videos{
+
+ 
+	 transition: all linear 0.2s;
+max-width: 1200px;
+	width: 100%;
+	transform: scale(1.07);
+	margin: auto;
+	margin-top: 50px;
+	background-color: #fff;
+	padding: 50px;
+
+overflow: auto;
+
+
+
+
+
+ }
+
+
+
+
+
+

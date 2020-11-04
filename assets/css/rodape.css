@@ -1,0 +1,26 @@
+footer{
+	background-color:#363636;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+}
+.rodape{
+
+	max-width: 1500px;
+	width:100%;
+	margin:auto;
+	 
+
+}
+
+.rodape div{
+	margin: 5px;
+	text-align: center;
+	color: #eee;
+	font-size: 14px;
+}
+
+.rodape a:hover{
+	color: #000
+
+}

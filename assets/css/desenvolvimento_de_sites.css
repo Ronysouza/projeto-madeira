@@ -1,0 +1,283 @@
+body{
+
+font-family: Arial, Helvetica, sans-serif;
+max-width: 1600px;
+width: 100%;
+margin: auto;
+border:1px solid #ddd;
+ 
+} 
+
+ .banner-fundo{
+background-image: url("http://localhost/landingpage/assets/images/foto-fundo.jpg");
+
+
+display: none;
+
+ }
+
+.BONUS_INFO_text{
+	text-align: center;
+}
+
+.BONUS_INFO_text h1{
+	color: #f3a500;
+	 font-size: 15px;
+
+
+}
+
+
+
+
+
+ .texto{
+ 
+    font-family: "Montserrat", Sans-serif;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.2em;
+    letter-spacing: -2px;
+ }
+
+
+ .topo{
+ 	background-color: rgba(0,0,0,0.1);
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ .texto h1{
+ 	 
+ 	 color: #ffffff;
+ 	     font-weight: bold;
+ 	     text-align: center;
+ 	         font-size: 31px;
+ }
+
+
+ .texto span{
+ 	border-bottom: solid #f3a500;
+ }
+
+
+
+  .banner-baixo{
+background-image: url("http://localhost/landingpage/assets/images/image-r7.jpg");
+
+    margin-top: -34px;
+margin-bottom: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+
+
+ }
+
+ .botao{
+
+box-shadow: 2px 8px 26px -6px #000;
+
+max-width: 800px;
+width: 100%;
+ font-weight: bold;
+ background-color: #f3a500;   
+    
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  border-radius: 90px;
+  color: #fff;
+ 	cursor: pointer;
+ }
+
+.banner-meio h1{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.banner-meio div{
+	margin-bottom: 10px;
+}
+ .site-intel {
+ 	text-align: center;
+  
+ 
+ }
+
+ .col-sm-12{
+ 
+
+ }
+
+
+ .banner_info_site{
+margin-top: 50px;
+margin-bottom: 50px;
+padding-top: 70px;
+padding-bottom: 70px;
+background-image: url("http://localhost/landingpage/assets/images/banner_info.jpg");
+
+background-color: red;
+ color: #fff;
+ }
+ .banner_info_site h1{
+ 	margin: 10px;
+ }
+
+  .banner_info_site span{
+  	color:  #f3a500;
+  }
+
+
+  .banner-meio-img{
+  	text-align: center;
+  }
+
+   .banner-meio-img h1{
+   	font-size: 21px;
+   	color:#A9A9A9
+   }
+
+  .banner-blue{
+  	margin-top: 100px;
+  	background-color: #f2f2f2;
+  	text-align: center;
+  }
+
+  .banner-blue div{
+  	margin-top: 50px;
+  }
+
+  .banner-blue p{
+  	color: #f3a500;
+  	font-size: 25px;
+  	padding: 10px;
+  }
+
+  .banner-width{
+  	background-color: #f2f2f2;
+  	color: #4F4F4F;
+  }
+
+  .banner-width .col-sm-4{
+  	padding: 20px;
+  	text-align: justify;
+  	border-bottom: 2px solid #ddd
+  }
+
+
+.banner-analize{
+
+
+background-image: url("http://localhost/landingpage/assets/images/banner_rodape_img.jpg");
+color: #fff;
+padding: 30px;
+
+
+}
+
+.form_color{
+	padding-top: 50px;
+	 
+	color: #808080;
+	
+	 
+
+
+}
+
+form{
+	background-color: #fff;
+	padding: 20px;
+	padding-bottom: 30px;
+	border-radius: 15px;
+}
+
+.form_color p{
+	font-size: 20px;
+	font-weight: 700
+}
+
+.faq_center h3{
+	color: #000;
+	margin: 50px;
+}
+
+
+
+.faq{
+	
+	border-bottom:2px solid #f3a500;
+	padding: 10px;
+	font-weight: bold;
+}
+
+.faq span{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.faq strong{
+	cursor: pointer;
+}
+
+
+
+
+.text-ocult{
+	padding: 30px;
+	display: none;
+}
+
+
+
+.banner-analize div{
+	font-size: 24px;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+footer{
+	background-color: #363636;
+	color: #ddd;
+	padding: 50px;
+}
+
+
+
+ 
+
+
+@media only screen and (max-width: 800px){
+
+
+.form_color {
+   
+    display: contents;
+
+
+}
+.banner_mobile{
+
+    display: contents;
+     margin-bottom: 30px;
+ 
+
+}
+
+
+
+
+
+
+}

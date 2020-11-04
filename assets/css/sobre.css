@@ -1,0 +1,23 @@
+.sobre-form{
+	background-color: #fff;
+	max-width: 400px;
+	width: 100%;
+	margin: auto;
+	border-bottom: 1px solid #ddd;
+		font-family: 'Cloister';
+    font-weight: 300;
+    color: 	#363636;
+    font-size: 25PX;
+    padding-left: 20px;
+}
+
+.banner-sobre{
+	color: #fff
+}
+
+.banner-sobre h4{
+
+	font-family: 'Cloister';
+    font-weight: 300;
+      font-size: 40px;
+}
